@@ -6,21 +6,6 @@ My name is Eduardo Nobre, I am 20 years old and I am from the 'Land of Light', C
 
 I am passionate about technology, always seeking to learn new tools, languages, and development practices. I enjoy turning real problems into solutions with programming, whether through API creation, software development, or process automation.
 
-<a href="https://github.com/eduu777?tab=repositories&sort=stargazers">
-        <img 
-            alt="Stars" 
-            title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/eduu777?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/eduu777?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/eduu777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-
 ---
 
 ### 💻 Languages and Technologies
